@@ -10,7 +10,7 @@ ___
 - 专        业： 计算机科学与技术
 - 工作经验： 1-2年
 - 英语水平： CET-4（[Stack Overflow](http://stackoverflow.com)、[Android Developer](https://developer.android.com/index.html)常客）
-- Github地址：[https://github.com/GavinChangCN](https://github.com/GavinChangCN) 
+- Github地址：[https://github.com/GavinChangCN](https://github.com/GavinChangCN)
 
 ### 自我评价
 - 工作情况：   曾在Ubuntu开发Android，现在自备Macbook Pro，“法器“齐全。丰富项目独立开发经验，具备项目周期评估能力，拥有根据团队情况进行项目分配的协调组织能力。拥有服务端及前端、移动端的全栈开发经验。与项目一起成长，陪伴项目上线与战友们一起开怀迎接杭州凌晨四点的太阳。敢说敢做，进项目的第一步就是要认识大家，也要让大家认识我、相信我。在老东家的绩效考核中获得最高分的3.75A的评分。
@@ -88,3 +88,6 @@ ___
 1. 本人全权负责全栈开发
 2. 视频通过酷播进行在线播放（FLASH）
 3. Hibernate 实现MySql数据库的交互
+
+### 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
