@@ -6,11 +6,12 @@ ___
 ### 个人资料
 - 项目经历： 2年J2EE拼搏，1年Android实战
 - 联系方式： 1575785\*\*\*\*
-- 邮        箱： gavinchangcn@163.com
+- 邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱： gavinchangcn@163.com
 - 毕业院校： 宁波工程学院（本科）（2012-2016）
-- 专        业： 计算机科学与技术
+- 专&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业： 计算机科学与技术
 - 工作经验： 1-2年
 - 英语水平： CET-4（[Stack Overflow](http://stackoverflow.com)、[Android Developer](https://developer.android.com/index.html)常客）
+- 博客地址： [简书-个人主页](http://www.jianshu.com/users/ad3321aa38f1/latest_articles)
 - Github地址：[https://github.com/GavinChangCN](https://github.com/GavinChangCN)
 
 ### 自我评价
