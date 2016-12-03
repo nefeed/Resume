@@ -7,26 +7,26 @@ ___
 ### 个人资料
 - 项目经历： 2年J2EE拼搏，1年半Android实战
 - 联系方式： 1575785\*\*\*\*
-- 邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱： gavinchangcn@163.com
+- 邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱： gavinchangcn@163.com
 - 毕业院校： 宁波工程学院（本科）（2012-2016）
-- 专&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业： 计算机科学与技术
+- 专&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业： 计算机科学与技术
 - 工作经验： 2年
 - 英语水平： CET-4（[Stack Overflow](http://stackoverflow.com)、[Android Developer](https://developer.android.com/index.html)常客）
 - 博客地址： [简书-个人主页](http://www.jianshu.com/users/ad3321aa38f1/latest_articles)
 - Github地址：[https://github.com/GavinChangCN](https://github.com/GavinChangCN)
 
 ### 自我评价
-- 工作情况：   曾在Ubuntu开发Android，现在自备Macbook Pro，“法器“齐全。丰富项目独立开发经验，具备项目周期评估能力，拥有根据团队情况进行项目分配的协调组织能力。拥有服务端及前端、移动端的全栈开发经验。与项目一起成长，陪伴项目上线与战友们一起开怀迎接杭州凌晨四点的太阳。敢说敢做，进项目的第一步就是要认识大家，也要让大家认识我、相信我。在老东家的绩效考核中获得最高分的3.75A的评分。
-- 学习情况：   不满足于熟悉Android四大组件，不允许杂乱无章的万能Activity，熟悉MVC、MVP、MVVM模式，认识并熟练掌握了Android开发新方向，Java废土中的希望-Kotlin语言，并制作PPT于公司内部成功召开技术分享会，取得较好反响；同时，拿下RxJava自然也不在话下，并在项目中实践加深认识。可以说，我是吃不饱的。
+- 工作情况：   曾在 Ubuntu 进行开发工作，现在自备 MacBook Pro，“法器“齐全。丰富项目独立开发经验，具备项目周期评估能力，拥有根据团队情况进行项目分配的协调组织能力。拥有服务端及前端、移动端的全栈开发经验。与项目一起成长，陪伴项目上线与战友们一起开怀迎接杭州凌晨四点的太阳。敢说敢做，进项目的第一步就是要认识大家，也要让大家认识我、相信我。在老东家的绩效考核中获得最高分的3.75A的评分。
+- 学习情况：   不满足于熟悉 Android 四大组件，不允许杂乱无章的万能 Activity，熟悉 MVC、MVP、MVVM 设计模式，认识并熟练掌握了 Android 开发新方向，Java 废土中的希望- Kotlin 语言，并制作 PPT 于公司内部成功召开技术分享会，取得较好反响；同时，拿下 RxJava 自然也不在话下，并在项目中实践加深认识。可以说，我是吃不饱的。
 - 校园情况：   学习成绩优秀，历年均凭借优异成绩获得学校奖学金及各种荣誉称号，同时考取中级软件工程师，凭借在线教育项目赢得了优秀毕业生。大学期间，我也是系主任实验室的战斗员，丰富的经验使我在步入企业的生产任务中游刃有余、攻坚克难。
 
 ### 技能清单
-- 熟练掌握Java、Android编程，熟练开发工具，并拥有服务器、前端、Android开发经验
-- 熟练常用设计模式、熟练使用Kotlin语言、掌握RxJava
-- 熟练使用抓包软件Charles，进行问题定位，以及疑难杂症排查
-- 精通网络处理、多线程及数据存储，并且熟练使用Github查找各种开源项目并分享自己的优秀项目
-- 熟悉TCP、UDP通信机制，熟悉json/xml解析，具有网络编程经验
-- 熟悉Git、SVN代码管理器, 编程基础扎实, 具备良好的编程习惯
+- 熟练掌握 Java、Android 编程，熟练开发工具，并拥有服务器、前端、Android开发经验
+- 熟练常用设计模式、熟练使用 Kotlin 语言、掌握 RxJava
+- 熟练使用抓包软件 Charles，进行问题定位，以及疑难杂症排查
+- 精通网络处理、多线程及数据存储，并且熟练使用 Github 查找各种开源项目并分享自己的优秀项目
+- 熟悉 TCP、UDP 通信机制，熟悉 Json、xml 解析，具有网络编程经验
+- 熟悉 Git、SVN 代码管理器, 编程基础扎实, 具备良好的编程习惯
 - 有良好的英语阅读、查阅、书写能力，顺畅使用英文软件及各软件命令
 
 ### 履历情况
