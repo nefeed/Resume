@@ -22,6 +22,9 @@ ___
 ### 技能清单
 -	熟练掌握Java、Android编程，熟悉开发工具，并拥有服务器、前端、Android开发经验
 -	掌握 MVP、MVVM设计模式，熟练使用 Kotlin 语言、掌握 RxJava
+- 熟悉SpringBOOT/SpringMVC/Hibernate/MyBatis/Struts等，Maven、Gradle得心应手
+- HTML、CSS、JavaScript 编写熟练，掌握 AJAX 进行网络访问
+-	熟练使用 Tomcat 以及拥有丰富的服务器环境搭建经验，熟练使用 MySQL，以及 SQL 指令
 -	熟练使用抓包软件 Charles，进行问题定位，以及疑难杂症排查
 -	精通网络处理、多线程及数据存储，并且熟练使用Github查找各种开源项目并分享自己的优秀项目
 -	有 App 性能优化及撰写 NDK 经验，例实现高效高斯模糊并优化 Bitmap 图片经验
@@ -111,3 +114,7 @@ ___
 
 ### 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
+
+aop before after around
+session
+tcp 和 http
