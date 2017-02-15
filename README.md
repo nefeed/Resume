@@ -5,51 +5,64 @@
 ___
 
 ### 个人资料
-- 项目经历： 2年Java EE拼搏，1年半Android实战
+- 项目经历： 三年实战
 - 联系方式： 1575785\*\*\*\*
 - 邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱： gavinchangcn@163.com
-- 毕业院校： 宁波工程学院（本科）
+- 毕业院校： 宁波工程学院（学士学位本科）
 - 专&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业： 计算机科学与技术
 - 英语水平： CET-4（[Stack Overflow](http://stackoverflow.com)、[Android Developer](https://developer.android.com/index.html)常客）
 - 博客地址： [简书-个人主页](http://www.jianshu.com/users/ad3321aa38f1/latest_articles)
 - Github地址：[https://github.com/GavinChangCN](https://github.com/GavinChangCN)
-
-### 自我评价
-- 工作情况：    有Ubuntu进行开发工作经验，现在自备MacBook Pro，熟悉 Bash 指令。有5项商业 App 从零开发经验，具备项目周期评估能力，拥有根据团队情况进行项目分配的协调组织能力。拥有服务端及前端、移动端的全栈开发经验。在老东家的绩效考核中获得最高分的3.75A的评分。
-- 学习情况：    不满足于熟悉Android四大组件，不允许杂乱无章的万能Activity，熟悉MVC、MVP、MVVM设计模式，认识并熟练掌握了 Kotlin 语言，并制作PPT于公司内部召开技术分享会，取得较好反响；同时，拿下 RxJava 自然也不在话下，并在项目中实践加深认识。可以说，我是吃不饱的。
-- 校园情况：    凭借优异成绩获得历年奖学金及优秀毕业生荣誉，同时考取中级软件工程师。大学期间，我也是系主任实验室的战斗员，丰富的经验使我在步入企业的生产任务中游刃有余、攻坚克难。
+- 现&nbsp;&nbsp;&nbsp;居&nbsp;&nbsp;&nbsp;地：杭州滨江
 
 ### 技能清单
--	熟练掌握Java、Android编程，熟悉开发工具，并拥有服务器、前端、Android开发经验
--	掌握 MVP、MVVM设计模式，熟练使用 Kotlin 语言、掌握 RxJava
+- 熟练掌握Java、Android编程，熟悉开发工具，并拥有服务器、前端、Android开发经验
+- 掌握 MVP、MVVM设计模式，熟练使用 Kotlin 语言、掌握 RxJava
 - 熟悉SpringBOOT/SpringMVC/Hibernate/MyBatis/Struts等，Maven、Gradle得心应手
 - HTML、CSS、JavaScript 编写熟练，掌握 AJAX 进行网络访问
--	熟练使用 Tomcat 以及拥有丰富的服务器环境搭建经验，熟练使用 MySQL，以及 SQL 指令
--	熟练使用抓包软件 Charles，进行问题定位，以及疑难杂症排查
--	精通网络处理、多线程及数据存储，并且熟练使用Github查找各种开源项目并分享自己的优秀项目
--	有 App 性能优化及撰写 NDK 经验，例实现高效高斯模糊并优化 Bitmap 图片经验
--	熟悉Json、xml解析，具有网络编程经验，了解TCP、UDP通信机制
--	熟悉Git、SVN代码管理器, 编程基础扎实, 具备良好的编程习惯
-有良好的英语阅读、查阅、书写能力，顺畅使用英文软件及各软件命令    
+- 编码科学规范，HTML、CSS、JavaScript 熟练，掌握 JQuery、Bootstrap、Vue.js、AJAX 进行网络访问
+- 熟练使用 Tomcat 以及拥有丰富的服务器环境搭建经验，熟练使用 MySQL，以及 SQL 指令
+- 熟练使用抓包软件 Charles，进行问题定位，以及疑难杂症排查
+- 精通网络处理、多线程及数据存储，并且熟练使用Github查找各种开源项目并分享自己的优秀项目
+- 有 App 性能优化及撰写 NDK 经验，例实现高效高斯模糊并优化 Bitmap 图片经验
+- 熟悉Json、xml解析，具有网络编程经验，了解TCP、UDP通信机制
+- 熟悉Git、SVN代码管理器, 编程基础扎实, 具备良好的编程习惯
+- 有良好的英语阅读、查阅、书写能力，顺畅使用英文软件及各软件命令    
 
 ### 履历情况
-* 时间：2015年12月-2016年12月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;公司：杭州淋漓尽致网络科技有限公司
-<br>职位：Android研发工程师&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职责：负责鸿运当投App的主导开发以及九天音乐App的开发工作
+* 时间：2016年12月-至今       公司：杭州逍邦网络科技有限公司
+<br>职位：Java 研发工程师                  职责：推广编码规范化工作及负责自动化策略系统的设计和实现
+<br>收获：掌握了团队推广及组织的能力并且通过组织系统业务实现自动化策略的设计提升了编程思想和认知。
+
+___
+* 时间：2015年12月-2016年12月       公司：杭州淋漓尽致网络科技有限公司
+<br>职位：Android研发工程师                职责：负责鸿运当投App的主导开发以及九天音乐App的开发工作
 <br>收获：绩效考核获得最高的3.75A的评分，掌握了沟通是团队合作成功的关键钥匙的道理，我有能力成为团队枢纽。
 
 ___
 
-* 时间：2015年06月-2015年12月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;公司：浙江好簿网络有限公司
-<br>职位：Android研发工程师&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职责：负责扑咚健康店员Pad客户端以及App的开发
+* 时间：2015年06月-2015年12月     公司：浙江好簿网络有限公司
+<br>职位：Android研发工程师                职责：负责扑咚健康店员Pad客户端以及App的开发
 <br>收获：巩固了Android开发的基础知识，明白框架、网络层、数据层的搭建以及自定义控件和炫酷的动画实现。
 
 ___
 
-* 时间：2012年09月-2016年06月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;实验室：大学生服务外包实验室（系主任实验室）
-<br>职位：战斗员&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职责：学习并带领学弟一同进步，实现实验室项目
+* 时间：2012年09月-2016年06月     实验室：大学生服务外包实验室（系主任实验室）
+<br>职位：战斗员                职责：学习并带领学弟一同进步，实现实验室项目
 <br>收获：揽获历年奖学金以及凭借在线教育毕业项目获得优秀毕业生等荣誉称号，并考取了中级软件设计师证书。
 
 ### 项目经历
+#### 销帮帮CRM及进销存
+##### 项目时间：2016年12月-至今
+![销帮帮官网](http://upload-images.jianshu.io/upload_images/875437-0dd5ae85f2d99d65.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+##### 项目描述：
+企业级 Saas 系统程序，钉钉、Web全平台，CRM部分支持企业对客户管理维护的需求，进销存 部分支持企业对仓储的管理。
+
+##### 责任描述：
+1. 推广科学、系统的编码规范并得到有效认可和实现。
+2. 组织系统业务实现自动化策略的设计
+3. 重构系统代码，严格按照 MVC 设计模式进行改造。
+
 #### 杭州公骑君-HZBicycle（出行辅助类 App）
 ##### 项目时间：2016年12月-至今
 ![杭州公骑君](http://upload-images.jianshu.io/upload_images/875437-34d64f5b1404c11a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -112,9 +125,10 @@ ___
 2. 视频通过酷播进行在线播放（FLASH）
 3. Hibernate 实现MySql数据库的交互
 
+### 自我评价
+- 工作情况：    有Ubuntu进行开发工作经验，现在自备MacBook Pro，熟悉 Bash 指令。有5项商业 App 从零开发经验，具备项目周期评估能力，拥有根据团队情况进行项目分配的协调组织能力。拥有服务端及前端、移动端的全栈开发经验。在老东家的绩效考核中获得最高分的3.75A的评分。
+- 学习情况：    不满足于熟悉Android四大组件，不允许杂乱无章的万能Activity，熟悉MVC、MVP、MVVM设计模式，认识并熟练掌握了 Kotlin 语言，并制作PPT于公司内部召开技术分享会，取得较好反响；同时，拿下 RxJava 自然也不在话下，并在项目中实践加深认识。可以说，我是吃不饱的。
+- 校园情况：    凭借优异成绩获得历年奖学金及优秀毕业生荣誉，同时考取中级软件工程师。大学期间，我也是系主任实验室的战斗员，丰富的经验使我在步入企业的生产任务中游刃有余、攻坚克难。
+
 ### 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
-
-aop before after around
-session
-tcp 和 http
