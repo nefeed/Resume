@@ -16,7 +16,7 @@ ___
 - 现&nbsp;&nbsp;&nbsp;居&nbsp;&nbsp;&nbsp;地：杭州滨江
 
 ### 技能清单
-- Java 基础扎实，熟悉SpringBOOT/SpringMVC /MyBatis/Redis等，Maven、Gradle得心应手
+- Java 基础扎实，熟悉SpringBOOT/SpringMVC /MyBatis/Redis/WebSocket等技术
 - 具备自动化智能系统设计经验，有大数据批量操作调优经历
 - 编码科学规范，HTML、CSS、JavaScript 熟练，掌握 JQuery、Vue.js 
 - 丰富的服务器搭建经验，了解 Docker以及 MySQL 优化 
