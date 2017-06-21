@@ -7,60 +7,69 @@ ___
 ### 个人资料
 - 项目经历： 三年实战
 - 联系方式： 1575785\*\*\*\*
-- 邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱： gavinchangcn@163.com
-- 毕业院校： 宁波工程学院（学士学位本科）
+- 邮       箱： gavinzhangcn@outlook.com
+- 毕业院校： 宁波工程学院（**学士学位本科**）
 - 专&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业： 计算机科学与技术
-- 英语水平： CET-4（[Stack Overflow](http://stackoverflow.com)、[Android Developer](https://developer.android.com/index.html)等开发社区常客）
+- 英语水平： CET-4（[Stack Overflow](http://stackoverflow.com)，就是能看**源码**的水平）
 - 博客地址： [简书-个人主页](http://www.jianshu.com/users/ad3321aa38f1/latest_articles)
 - Github地址：[https://github.com/GavinChangCN](https://github.com/GavinChangCN)
 - 现&nbsp;&nbsp;&nbsp;居&nbsp;&nbsp;&nbsp;地：杭州滨江
 
 ### 技能清单
-- Java 基础扎实，熟悉SpringBOOT/SpringMVC /MyBatis/Redis/WebSocket等技术
-- 具备自动化智能系统设计经验，有大数据批量操作调优经历
-- 编码科学规范，HTML、CSS、JavaScript 熟练，掌握 JQuery、Vue.js 
-- 丰富的服务器搭建经验，了解 Docker以及 MySQL 优化 
-- 熟练掌握Java、Android编程，熟悉开发工具，并拥有服务器、前端、Android开发经验
-- 掌握 MVC、MVP、MVVM设计模式，熟练使用Kotlin 语言、掌握 RxJava
+- Java 基础扎实，熟悉Spring BOOT/Spring Cloud／SpringMVC /MyBatis/WebSocket等技术
+- 具备自动化智能系统设计经验（SFA），有大数据批处理调优经历 
+- 掌握 MVC、MVP、MVVM设计模式，熟练使用 Kotlin 语言（2016.06开始使用）、掌握 Kafka、RxJava
+- 丰富的服务器搭建经验，了解 Docker、Redis以及 MySQL 优化 
+- 熟练掌握J2EE、Android编程，并拥有服务器、前端、Android开发经验；掌握 JQuery、Vue.js
 - 熟练使用抓包软件 Charles，进行问题定位，以及疑难杂症排查
 - 精通网络处理、多线程及数据存储，并且熟练使用Github查找各种开源项目并分享自己的优秀项目
 - 熟悉Json、XML解析，具有网络编程经验，了解 TCP、UDP通信机制
-- 熟悉Git、SVN代码管理器, 编程基础扎实, 具备良好编程习惯  
+- 熟悉Git、SVN代码管理器, 负责搭建SonarQube、Gitlab 环境
+
 
 ### 履历情况
-* 时间：2016年12月-至今                          公司：杭州逍邦网络科技有限公司
-  职位：Java 及项目推进组长                     职责：负责智能自动化系统的研发及开发内部API管理及自动化测试工具
-  收获：专业技能的提升同时，兼职项目助理，掌握了项目管理的基本技能，并且能够有效合理沟通并推进项目进度
+* **时间**：2016年12月-至今
+  **公司**：杭州逍邦网络科技有限公司
+  **职位**：项目经理、质量组组长、Java
+  **职责**：负责智能自动化系统的研发及开发内部API管理及自动化测试工具
+  **收获**：负责项目管理、质量把控的能力提升，组织研发团队晨会、周会会议安排以及复盘项目总结团队经验；同时搭建SonarQube、Gitlab并成功推进全公司使用，掌握大数据调优能力。 
 
 ___
-* 时间：2015年12月-2016年12月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;公司：杭州淋漓尽致网络科技有限公司
-  职位：Android研发工程师                        职责：负责鸿运当投App的主导开发以及九天音乐App的开发工作
-  收获：绩效考核获得最高的3.75A的评分，掌握了团队沟通的能力以及任务评估与合作分工的能力。
-
-___
-
-* 时间：2015年06月-2015年12月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;公司：浙江好簿网络有限公司
-  职位：Android研发工程师                        职责：负责扑咚健康店员Pad客户端以及App的开发
-  收获：巩固了Android开发的基础知识，明白框架、网络层、数据层的搭建以及自定义控件和炫酷的动画实现。
+* **时间**：2015年12月-2016年12月
+  **公司**：杭州淋漓尽致网络科技有限公司
+  **职位**：Android研发工程师                        
+  **职责**：负责鸿运当投App的主导开发以及九天音乐App的开发工作
+  **收获**：绩效考核获得最高的3.75A的评分，掌握了团队沟通的能力以及任务评估与合作分工的能力。
 
 ___
 
-* 时间：2012年09月-2016年06月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;实验室：大学生服务外包实验室（系主任实验室）
-  职位：战斗员                                              职责：学习并带领学弟一同进步，实现实验室项目
-  收获：揽获历年奖学金以及凭借在线教育毕业项目获得优秀毕业生等荣誉称号，并考取了中级软件设计师证书。
+* **时间**：2015年06月-2015年12月
+  **公司**：浙江好簿网络有限公司
+  **职位**：Android研发工程师                        
+  **职责**：负责扑咚健康店员Pad客户端以及App的开发
+  **收获**：巩固了Android开发的基础知识，明白框架、网络层、数据层的搭建以及自定义控件和炫酷的动画实现。
+
+___
+
+* **时间**：2012年09月-2016年06月
+  **实验室**：大学生服务外包实验室（系主任实验室）
+  **职位**：战斗员                                              
+  **职责**：学习并带领学弟一同进步，实现实验室项目
+  **收获**：揽获历年奖学金以及凭借在线教育毕业项目获得优秀毕业生等荣誉称号，并考取了中级软件设计师证书。
 
 ### 项目经历
 #### 销帮帮CRM及进销存
 ##### 项目时间：2016年12月-至今
 ![销帮帮官网](http://upload-images.jianshu.io/upload_images/875437-0dd5ae85f2d99d65.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ##### 项目描述：
-企业级 Saas 系统程序，钉钉、Web、App全平台，CRM部分支持企业对客户管理维护的需求，进销存 部分支持企业对仓储的管理。
+企业级 Saas 系统程序，钉钉、Web、App全平台，CRM部分支持企业对客户管理维护的需求，进销存部分支持企业对仓储的管理。
 
 
 ##### 责任描述：
-1. 推广科学、系统的编码规范并得到有效认可和实现。
-2. 组织系统业务实现自动化策略的设计。
+1. 搭建SonarQube及Gitlab环境，并成功推广
+2. 编写全系统整合的自动化智能销售系统（SFA）
 3. 负责设计和开发Api管理及导出工具和自动化测试用例工具。
+4. 搭建 WebSocket 消息交互系统。
 
 #### 杭州公骑君-HZBicycle（出行辅助类 App）
 ##### 项目时间：2016年12月-至今
