@@ -7,12 +7,12 @@ ___
 ### 个人资料
 - 项目经历： 三年实战
 - 联系方式： 1575785\*\*\*\*
-- 邮       箱： gavinzhangcn@outlook.com
+- 邮       箱： nefeed@163.com
 - 毕业院校： 宁波工程学院（**学士学位本科**）
 - 专&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业： 计算机科学与技术
 - 英语水平： CET-4（[Stack Overflow](http://stackoverflow.com)，就是能看**源码**的水平）
 - 博客地址： [简书-个人主页](http://www.jianshu.com/users/ad3321aa38f1/latest_articles)
-- Github地址：[https://github.com/GavinChangCN](https://github.com/GavinChangCN)
+- Github地址：[https://github.com/nefeed](https://github.com/nefeed)
 - 现&nbsp;&nbsp;&nbsp;居&nbsp;&nbsp;&nbsp;地：杭州滨江
 
 ### 技能清单
@@ -30,8 +30,8 @@ ___
 ### 履历情况
 * **时间**：2016年12月-至今
   **公司**：杭州逍邦网络科技有限公司
-  **职位**：项目经理、质量组组长、Java
-  **职责**：负责智能自动化系统的研发及开发内部API管理及自动化测试工具
+  **职位**：Java组组长
+  **职责**：负责Java组工作安排，同时负责呼叫中心系统、智能自动化系统的研发及开发内部API管理及自动化测试工具
   **收获**：负责项目管理、质量把控的能力提升，组织研发团队晨会、周会会议安排以及复盘项目总结团队经验；同时搭建SonarQube、Gitlab并成功推进全公司使用，掌握大数据调优能力。 
 
 ___
@@ -66,10 +66,11 @@ ___
 
 
 ##### 责任描述：
-1. 搭建SonarQube及Gitlab环境，并成功推广
-2. 编写全系统整合的自动化智能销售系统（SFA）
-3. 负责设计和开发Api管理及导出工具和自动化测试用例工具。
-4. 搭建 WebSocket 消息交互系统。
+1. 搭建呼叫中心平台
+2. 搭建SonarQube及Gitlab环境，并成功推广
+3. 编写全系统整合的自动化智能销售系统（SFA）
+4. 负责设计和开发Api管理及导出工具和自动化测试用例工具。
+5. 搭建 WebSocket 消息交互系统。
 
 #### 杭州公骑君-HZBicycle（出行辅助类 App）
 ##### 项目时间：2016年12月-至今
